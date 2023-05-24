@@ -30,33 +30,33 @@ namespace WebApi.Controllers
 
 
 
-        [Authorize(Roles = "admin")]
-        [HttpGet()]
-        public async Task<IActionResult> GetOrdersForAdmin()
-        {
-            if (context.Bookings == null)
-            {
-                return NotFound();
-            }
-            var order = await context.Bookings.ToListAsync();
-            return Ok(order);
-        }
-        [Authorize(Roles = "admin")]
-        [HttpGet("{useremail}")]
-        public async Task<IActionResult> GetOrdersForAdminByUser(string useremail)
-        {
-            if (context.Bookings == null)
-            {
-                return NotFound();
-            }
-            if (useremail == "")
-            {
-                var drugModel1 = context.Bookings.ToList();
-                return Ok(drugModel1);
-            }
+        //[Authorize(Roles = "admin")]
+        //[HttpGet()]
+        //public async Task<IActionResult> GetOrdersForAdmin()
+        //{
+        //    if (context.Bookings == null)
+        //    {
+        //        return NotFound();
+        //    }
+        //    var order = await context.Bookings.ToListAsync();
+        //    return Ok(order);
+        //}
+        //[Authorize(Roles = "admin")]
+        //[HttpGet("{useremail}")]
+        //public async Task<IActionResult> GetOrdersForAdminByUser(string useremail)
+        //{
+        //    if (context.Bookings == null)
+        //    {
+        //        return NotFound();
+        //    }
+        //    if (useremail == "")
+        //    {
+        //        var trainModel = context.Bookings.ToList();
+        //        return Ok(trainModel);
+        //    }
 
-            return BadRequest();
-        }
+        //    return BadRequest();
+        //}
 
         [HttpPost("CreateTrain")]
         [Authorize(Roles = "admin")]
@@ -108,14 +108,14 @@ namespace WebApi.Controllers
             {
                 return NotFound();
             }
-            var drugModel = await context.TrainDetails.FindAsync(id);
+            var trainModel = await context.TrainDetails.FindAsync(id);
 
-            if (drugModel == null)
+            if (trainModel == null)
             {
                 return NotFound();
             }
 
-            return drugModel;
+            return trainModel;
         }
 
 
@@ -142,7 +142,7 @@ namespace WebApi.Controllers
         {
             if (id != trainDetails.Id)
             {
-                return BadRequest();
+                return BadRequest("Train Id is not matching.");
             }
 
             context.Entry(trainDetails).State = EntityState.Modified;
@@ -150,6 +150,7 @@ namespace WebApi.Controllers
             try
             {
                 await context.SaveChangesAsync();
+                return Ok("Details updated successfully");
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -185,7 +186,7 @@ namespace WebApi.Controllers
             context.TrainDetails.Remove(TrainModel);
             await context.SaveChangesAsync();
 
-            return NoContent();
+            return Ok("Deleted train successfully.");
         }
 
 

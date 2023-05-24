@@ -29,10 +29,26 @@ namespace YourApp.Controllers.Api
             _config = config;
             _dbContext = dbContext;
         }
-        
+
+
+        //------------------------------------------helper methods start here----------------------------------
+
+        private bool UserExists(string name)
+        {
+            return _dbContext.UserProfileDetails.Any(u => u.UserEmail == name);
+        }
+
+        //------------------------------------------helper methods ends here-----------------------------------
+
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterModel model)
         {
+
+            if (UserExists(model.Email))
+            {
+                return BadRequest("User already exists, please log in");
+            }
+
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
@@ -41,7 +57,7 @@ namespace YourApp.Controllers.Api
             var user = new UserProfileDetails
             {
                 UserName = model.UserName,
-                UserEmail = model.UserEmail,
+                UserEmail = model.Email,
                 Password = pass
             };
 
@@ -86,7 +102,7 @@ namespace YourApp.Controllers.Api
 
             if (!await _dbContext.UserProfileDetails.AnyAsync(u => u.UserEmail == model.UserEmail && req))
             {
-                ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                ModelState.AddModelError(string.Empty, "User not found, please enter valid email or password.");
                 return BadRequest(ModelState);
             }
 
