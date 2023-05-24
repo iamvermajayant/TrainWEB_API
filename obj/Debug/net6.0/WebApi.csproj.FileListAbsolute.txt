@@ -1,0 +1,1730 @@
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#projects\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\C#projects\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\thepr\OneDrive\Desktop\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\appsettings.Development.json
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\appsettings.json
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.exe
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.deps.json
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.pdb
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Azure.Core.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Humanizer.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\MessagePack.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+R:\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.dll
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.pdb
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+R:\WebApi (1)\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\Hp\Desktop\WebApi (1)\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\obj\Debug\net6.0\WebApi.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Hp\Desktop\UpdatedProj19\WebApi\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\iamve\Desktop\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.RazorAssemblyInfo.cache
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.RazorAssemblyInfo.cs
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\iamve\Desktop\WebApi\obj\Debug\net6.0\ref\WebApi.dll
