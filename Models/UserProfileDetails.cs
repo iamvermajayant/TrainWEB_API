@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 namespace WebApi.Models
 {
-    public class Users
+    public class UserProfileDetails
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

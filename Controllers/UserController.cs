@@ -38,14 +38,14 @@ namespace YourApp.Controllers.Api
                 return BadRequest(ModelState);
             }
             string pass = _passwordHasher.HashPassword(null, model.Password);
-            var user = new Users
+            var user = new UserProfileDetails
             {
                 UserName = model.UserName,
                 UserEmail = model.UserEmail,
                 Password = pass
             };
 
-            var result = await _dbContext.Users.AddAsync(user);
+            var result = await _dbContext.UserProfileDetails.AddAsync(user);
 
             if (result.State != EntityState.Added)
             {
@@ -70,7 +70,7 @@ namespace YourApp.Controllers.Api
                 return BadRequest(ModelState);
             }
 
-            var user = await _dbContext.Users.FirstOrDefaultAsync(u => u.UserEmail == model.UserEmail);
+            var user = await _dbContext.UserProfileDetails.FirstOrDefaultAsync(u => u.UserEmail == model.UserEmail);
 
             if (user == null)
             {
@@ -84,7 +84,7 @@ namespace YourApp.Controllers.Api
                 req = true;
             }
 
-            if (!await _dbContext.Users.AnyAsync(u => u.UserEmail == model.UserEmail && req))
+            if (!await _dbContext.UserProfileDetails.AnyAsync(u => u.UserEmail == model.UserEmail && req))
             {
                 ModelState.AddModelError(string.Empty, "Invalid login attempt.");
                 return BadRequest(ModelState);
@@ -95,7 +95,7 @@ namespace YourApp.Controllers.Api
             return Ok(new { token });
         }
 
-        private string GenerateJwtToken(Users user)
+        private string GenerateJwtToken(UserProfileDetails user)
         {
             var claims = new[]
             {
