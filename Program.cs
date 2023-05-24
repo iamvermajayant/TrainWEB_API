@@ -5,8 +5,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using WebApi.Data;
 using Microsoft.OpenApi.Models;
-using WebApi.server;
-using WebApi.Services;
 
 namespace WebApi
 {
@@ -86,7 +84,6 @@ namespace WebApi
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddScoped<IEmailService, EmailService>();
 
 
             var app = builder.Build();
