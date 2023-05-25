@@ -44,11 +44,6 @@ namespace YourApp.Controllers.Api
         public async Task<IActionResult> Register([FromBody] RegisterModel model)
         {
 
-            if (UserExists(model.Email))
-            {
-                return BadRequest("User already exists, please log in");
-            }
-
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
@@ -57,7 +52,7 @@ namespace YourApp.Controllers.Api
             var user = new UserProfileDetails
             {
                 UserName = model.UserName,
-                UserEmail = model.Email,
+                UserEmail = model.UserEmail,
                 Password = pass
             };
 

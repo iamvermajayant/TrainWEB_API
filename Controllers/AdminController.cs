@@ -80,7 +80,7 @@ namespace WebApi.Controllers
             trainDetails.SeatCapacity = obj.SeatCapacity;
             trainDetails.SeatRate = obj.SeatRate;
 
-            context.TrainDetails.AddAsync(trainDetails);
+            await context.TrainDetails.AddAsync(trainDetails);
             context.SaveChanges();
 
             return Ok("Added train successfully.");
