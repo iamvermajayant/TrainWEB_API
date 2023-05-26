@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using NETCore.MailKit.Core;
 using System.Security.Claims;
 using TRS_WebApi.Models;
@@ -41,12 +42,15 @@ namespace WebApi.Controllers
 
 
         [HttpPost("BookTicket")]
-        public async Task<ActionResult<BookingHistory>> BookTicket(int TrainId, BookingHistory bghObj)
+        public async Task<ActionResult<BookingHistory>> BookTicket(int TrainId, int ticketCount)
         {
 
-            string userID = _contentAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
+            string userName = _contentAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
+            string userId = _contentAccessor.HttpContext.User.FindFirstValue("Id");
 
-            UserProfileDetails user = _context.UserProfileDetails.Find(userID);
+            int userRetrievedId = Convert.ToInt32(userId);
+
+            UserProfileDetails user = _context.UserProfileDetails.FirstOrDefault(user => user.UserId == userRetrievedId);
 
             TrainDetails trainObj = _context.TrainDetails.Find(TrainId);
 
@@ -55,14 +59,14 @@ namespace WebApi.Controllers
                 return BadRequest("Train not found");
             }
 
-            if (bghObj.ticketCount > trainObj.SeatCapacity)
+            if (ticketCount > trainObj.SeatCapacity)
             {
                 return BadRequest("Tickets not avaialable");
             }
 
             BookingHistory bgh = new BookingHistory();
 
-            double price = (trainObj.SeatRate * bghObj.ticketCount);
+            double price = (trainObj.SeatRate * ticketCount);
 
             bgh.UserProfileDetails = user;
             bgh.TrainDetails = trainObj;
@@ -81,7 +85,10 @@ namespace WebApi.Controllers
             }
 
             bgh.PNR = tempPNR;
-            bgh.ticketCount = bghObj.ticketCount;
+            bgh.ticketCount = ticketCount;
+
+            bgh.TrainId = trainObj.TrainId;
+            bgh.UserId = userRetrievedId;
 
 
             trainObj.SeatCapacity -= bgh.ticketCount;
@@ -96,6 +103,57 @@ namespace WebApi.Controllers
 
 
             return Ok($"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address");
+        }
+
+
+        [HttpPost("CancelTicket")]
+        public async Task<IActionResult> CancelTicket(int id)
+        {
+            var bookingHistory = _context.Bookings.SingleOrDefault(b => b.Id == id);
+
+            if (bookingHistory == null)
+            {
+                return RedirectToAction("Index");
+            }
+
+            var trainDetails = _context.TrainDetails.SingleOrDefault(x => x.Id == bookingHistory.TrainId);
+
+            // Increase the seat capacity of the train
+            trainDetails.SeatCapacity += bookingHistory.ticketCount;
+
+            // Remove passenger details associated with the booking
+            var passengerDetails = _context.PassengerDetails.Where(p => p.PNR == bookingHistory.PNR).ToList();
+            _context.PassengerDetails.RemoveRange(passengerDetails);
+
+            var UserProfile = _context.UserProfileDetails.SingleOrDefault(x => x.UserId == bookingHistory.UserId);
+
+            string emailBody = $"Cancel successfull, here is the PNR number for your cancelled booking {bookingHistory.PNR},\nTrain Details \nTrain Number : {trainDetails.TrainId}\nTrain Name : {trainDetails.TrainName}\n Travel Date : {trainDetails.Departure} - {trainDetails.Arrival}\nTickets : {bookingHistory.ticketCount}";
+
+            //EmailService em = new EmailService();
+            //em.SendEmail(emailBody, UserProfile.Email);
+
+            // Remove the booking
+            _context.Bookings.Remove(bookingHistory);
+
+            _context.SaveChanges();
+
+            return Ok($"Ticket with PNR {bookingHistory.PNR} has been cancelled successfully.");
+        }
+
+        [HttpGet("BookedTicketHistory")]
+        public async Task<ActionResult<IEnumerable<BookingHistory>>> BookedTicketHistory()
+        {
+            string tempUserId = _contentAccessor.HttpContext.User.FindFirstValue("Id");
+            int UserId = Convert.ToInt32(tempUserId);
+
+            var bookingHistory = _context.Bookings.Where(x => x.UserId == UserId).ToList();
+
+            if (bookingHistory.Count == 0)
+            {
+                return NotFound("No booking history found");
+            }
+
+            return bookingHistory;
         }
 
     }
