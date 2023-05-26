@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using NETCore.MailKit.Core;
+using System.Data;
 using System.Security.Claims;
 using TRS_WebApi.Models;
 using WebApi.Data;
@@ -42,6 +44,7 @@ namespace WebApi.Controllers
 
 
         [HttpPost("BookTicket")]
+        [Authorize(Roles = "user")]
         public async Task<ActionResult<BookingHistory>> BookTicket(int TrainId, int ticketCount)
         {
 
@@ -107,6 +110,7 @@ namespace WebApi.Controllers
 
 
         [HttpPost("CancelTicket")]
+        [Authorize(Roles = "user")]
         public async Task<IActionResult> CancelTicket(int id)
         {
             var bookingHistory = _context.Bookings.SingleOrDefault(b => b.Id == id);
@@ -141,6 +145,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet("BookedTicketHistory")]
+        [Authorize(Roles = "user")]
         public async Task<ActionResult<IEnumerable<BookingHistory>>> BookedTicketHistory()
         {
             string tempUserId = _contentAccessor.HttpContext.User.FindFirstValue("Id");
@@ -156,5 +161,15 @@ namespace WebApi.Controllers
             return bookingHistory;
         }
 
+        [HttpGet("GetTrainUser")]
+        [AllowAnonymous]
+        public async Task<ActionResult<IEnumerable<TrainDetails>>> GetTrainUser()
+        {
+            if (_context.TrainDetails == null)
+            {
+                return NotFound("No trains are found");
+            }
+            return await _context.TrainDetails.ToListAsync();
+        }
     }
 }
