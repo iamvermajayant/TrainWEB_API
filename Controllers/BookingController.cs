@@ -64,7 +64,17 @@ namespace WebApi.Controllers
 
             if (ticketCount > trainObj.SeatCapacity)
             {
-                return BadRequest("Tickets not avaialable");
+                return BadRequest("Tickets not available");
+            }
+
+            if (ticketCount > 6)
+            {
+                return BadRequest("Ticket count shouldn't be more than 6");
+            }
+
+            if (ticketCount < 1)
+            {
+                return BadRequest("Please enter valid ticket count");
             }
 
             BookingHistory bgh = new BookingHistory();
@@ -105,7 +115,7 @@ namespace WebApi.Controllers
             //em.SendEmail(emailBody, user.Email);
 
 
-            return Ok($"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address");
+            return Ok( new { Message = $"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address" });
         }
 
 
@@ -117,7 +127,7 @@ namespace WebApi.Controllers
 
             if (bookingHistory == null)
             {
-                return RedirectToAction("Index");
+                return BadRequest( new { Message = $"Train related to the id {id} is not available" });
             }
 
             var trainDetails = _context.TrainDetails.SingleOrDefault(x => x.Id == bookingHistory.TrainId);
@@ -141,7 +151,7 @@ namespace WebApi.Controllers
 
             _context.SaveChanges();
 
-            return Ok($"Ticket with PNR {bookingHistory.PNR} has been cancelled successfully.");
+            return Ok( new { Message = $"Ticket with PNR {bookingHistory.PNR} has been cancelled successfully." });
         }
 
         [HttpGet("BookedTicketHistory")]
