@@ -83,7 +83,7 @@ namespace WebApi.Controllers
             await context.TrainDetails.AddAsync(trainDetails);
             context.SaveChanges();
 
-            return Ok("Added train successfully.");
+            return Ok( new { Message = "Added train successfully." });
         }
 
 
@@ -142,7 +142,7 @@ namespace WebApi.Controllers
         {
             if (id != trainDetails.Id)
             {
-                return BadRequest("Train Id is not matching.");
+                return BadRequest( new { Message = "Train Id is not matching." });
             }
 
             context.Entry(trainDetails).State = EntityState.Modified;
@@ -150,7 +150,7 @@ namespace WebApi.Controllers
             try
             {
                 await context.SaveChangesAsync();
-                return Ok("Details updated successfully");
+                return Ok( new { Message = "Details updated successfully" });
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -163,8 +163,6 @@ namespace WebApi.Controllers
                     throw;
                 }
             }
-
-            return NoContent();
         }
 
 
@@ -186,7 +184,7 @@ namespace WebApi.Controllers
             context.TrainDetails.Remove(TrainModel);
             await context.SaveChangesAsync();
 
-            return Ok("Deleted train successfully.");
+            return Ok( new { Message = "Deleted train successfully." });
         }
 
 
