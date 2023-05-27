@@ -25,6 +25,11 @@ namespace WebApi.Controllers
         {
             return (context.TrainDetails?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+        
+        private bool TrainNumberExists(int number)
+        {
+            return (context.TrainDetails?.Any(e => e.TrainId == number)).GetValueOrDefault();
+        }
 
         //--------------------------helper methods ends here------------------------------------------
 
@@ -62,8 +67,16 @@ namespace WebApi.Controllers
         [Authorize(Roles = "admin")]
         public async Task<IActionResult> CreateTrain([FromBody] TrainDetailsModelToDB obj)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
 
+            if (TrainNumberExists(obj.TrainId))
+            {
+                return BadRequest("Train numnber already exists, please give another train number");
+            }
 
             if (obj.Departure < DateTime.Now || obj.Arrival < obj.Departure)
             {

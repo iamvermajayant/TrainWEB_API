@@ -102,7 +102,7 @@ namespace WebApi.Controllers
             bgh.PNR = tempPNR;
             bgh.ticketCount = ticketCount;
 
-            bgh.TrainId = trainObj.Id;
+            bgh.TrainId = trainObj.TrainId;
             bgh.UserId = userRetrievedId;
 
 
