@@ -47,7 +47,7 @@ namespace WebApi.Controllers
 
         [HttpPost("BookTicket")]
         [Authorize(Roles = "user")]
-        public async Task<ActionResult<BookingHistory>> BookTicket(int TrainId, int ticketCount)
+        public async Task<ActionResult<BookingHistory>> BookTicket(BookingHistoryModel bghModel)
         {
 
             string userName = _contentAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -58,30 +58,30 @@ namespace WebApi.Controllers
             UserProfileDetails user = _context.UserProfileDetails.FirstOrDefault(user => user.UserId == userRetrievedId);
 
             //TrainDetails trainObj = _context.TrainDetails.Find(TrainId);
-            TrainDetails trainObj = await _context.TrainDetails.FirstOrDefaultAsync(x => x.TrainId == TrainId);
+            TrainDetails trainObj = await _context.TrainDetails.FirstOrDefaultAsync(x => x.TrainId == bghModel.TrainId);
             if (trainObj == null)
             {
                 return BadRequest("Train not found");
             }
 
-            if (ticketCount > trainObj.SeatCapacity)
+            if (bghModel.PassengerDetails.Count > trainObj.SeatCapacity)
             {
                 return BadRequest("Tickets not available");
             }
 
-            if (ticketCount > 6)
+            if (bghModel.PassengerDetails.Count > 6)
             {
                 return BadRequest("Ticket count shouldn't be more than 6");
             }
 
-            if (ticketCount < 1)
+            if (bghModel.PassengerDetails.Count < 1)
             {
                 return BadRequest("Please enter valid ticket count");
             }
 
             BookingHistory bgh = new BookingHistory();
 
-            double price = (trainObj.SeatRate * ticketCount);
+            double price = (trainObj.SeatRate * bghModel.PassengerDetails.Count);
 
             bgh.UserProfileDetails = user;
             bgh.TrainDetails = trainObj;
@@ -100,13 +100,23 @@ namespace WebApi.Controllers
             }
 
             bgh.PNR = tempPNR;
-            bgh.ticketCount = ticketCount;
+            bgh.ticketCount = bghModel.PassengerDetails.Count;
 
             bgh.TrainId = trainObj.TrainId;
             bgh.UserId = userRetrievedId;
 
 
             trainObj.SeatCapacity -= bgh.ticketCount;
+
+            foreach(PassengerDetails passenger in bghModel.PassengerDetails)
+            {
+                _context.PassengerDetails.Add( new PassengerDetails{
+                    Name = passenger.Name,
+                    Age = passenger.Age,
+                    Gender = passenger.Gender,
+                    PNR = tempPNR
+                });
+            }
 
             _context.Bookings.Add(bgh);
             _context.SaveChanges();
@@ -117,7 +127,7 @@ namespace WebApi.Controllers
             em.SendEmail(emailBody, user.UserEmail);
 
 
-            return Ok( new { ticketCount, tempPNR, Message = $"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address" });
+            return Ok( new { Message = $"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address" });
         }
 
 
