@@ -100,7 +100,7 @@ namespace WebApi.Controllers
             bgh.PNR = tempPNR;
             bgh.ticketCount = ticketCount;
 
-            bgh.TrainId = trainObj.TrainId;
+            bgh.TrainId = trainObj.Id;
             bgh.UserId = userRetrievedId;
 
 
@@ -115,7 +115,33 @@ namespace WebApi.Controllers
             //em.SendEmail(emailBody, user.Email);
 
 
-            return Ok( new { Message = $"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address" });
+            return Ok( new { ticketCount, tempPNR, Message = $"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address" });
+        }
+
+
+
+        [HttpPost("PassengerDetails")]
+        [Authorize(Roles = "user")]
+        public async Task<IActionResult> PassengerDetails(List<PassengerDetails> tempPassengerDetails)
+        {
+            List<PassengerDetails> passengerDetails = new List<PassengerDetails>();
+
+            foreach(PassengerDetails  passenger in tempPassengerDetails)
+            {
+                PassengerDetails passObj = new PassengerDetails();
+
+                passObj.Name = passenger.Name;
+                passObj.Age = passenger.Age;
+                passObj.Gender = passenger.Gender;
+                passObj.PNR = passenger.PNR;
+
+                passengerDetails.Add(passObj);
+            }
+
+            _context.PassengerDetails.AddRangeAsync(passengerDetails);
+            _context.SaveChanges();
+
+            return Ok(new { Message = "Passenger details added successfully." });
         }
 
 
@@ -153,6 +179,7 @@ namespace WebApi.Controllers
 
             return Ok( new { Message = $"Ticket with PNR {bookingHistory.PNR} has been cancelled successfully." });
         }
+
 
         [HttpGet("BookedTicketHistory")]
         [Authorize(Roles = "user")]
