@@ -57,8 +57,8 @@ namespace WebApi.Controllers
 
             UserProfileDetails user = _context.UserProfileDetails.FirstOrDefault(user => user.UserId == userRetrievedId);
 
-            TrainDetails trainObj = _context.TrainDetails.Find(TrainId);
-
+            //TrainDetails trainObj = _context.TrainDetails.Find(TrainId);
+            TrainDetails trainObj = await _context.TrainDetails.FirstOrDefaultAsync(x => x.TrainId == TrainId);
             if (trainObj == null)
             {
                 return BadRequest("Train not found");
