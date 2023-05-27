@@ -120,6 +120,7 @@ namespace WebApi.Controllers
 
 
         [HttpGet("GetTrainByName/{name}")]
+        [Authorize(Roles = "admin")]
         public async Task<ActionResult<TrainDetails>> GetTrainByName(string name)
         {
             if (context.TrainDetails == null)
@@ -138,6 +139,7 @@ namespace WebApi.Controllers
 
 
         [HttpPut("UpdateTrainDetails/{id}")]
+        [Authorize(Roles = "admin")]
         public async Task<IActionResult> UpdateTrainDetails(int id, TrainDetails trainDetails)
         {
             if (id != trainDetails.Id)
@@ -169,6 +171,7 @@ namespace WebApi.Controllers
 
 
         [HttpDelete("DeleteTrainDetails/{id}")]
+        [Authorize(Roles = "admin")]
         public async Task<IActionResult> DeleteTrainDetails(int id)
         {
             if (context.TrainDetails == null)
@@ -188,5 +191,45 @@ namespace WebApi.Controllers
         }
 
 
+        [HttpGet("AllBookings")]
+        [Authorize(Roles = "admin")]
+        public async Task<ActionResult<IEnumerable<BookingHistory>>> AllBookings()
+        {
+            List<BookingHistory> bookings = context.Bookings.ToList();
+
+            if (bookings.Count == 0)
+            {
+                return Ok( new { Message = "No bookings found" });
+            }
+            return await context.Bookings.ToListAsync();
+        }
+
+        [HttpDelete("DeleteBooking/{id}")]
+        [Authorize(Roles = "admin")]
+        public async Task<IActionResult> DeleteBooking(int id)
+        {
+            if (context.Bookings == null)
+            {
+                return NotFound();
+            }
+            var BookingsModel = await context.Bookings.FindAsync(id);
+            List<PassengerDetails> PassengerModel = new List<PassengerDetails>();
+
+            if (BookingsModel != null)
+            {
+                PassengerModel = context.PassengerDetails.Where(x => x.PNR == BookingsModel.PNR).ToList();
+            }
+            else
+            {
+                return NotFound();
+            }
+
+            context.Bookings.Remove(BookingsModel);
+            context.PassengerDetails.RemoveRange(PassengerModel);
+
+            await context.SaveChangesAsync();
+
+            return Ok(new { Message = $"Deleted Booking with PNR {BookingsModel.PNR} successfully." });
+        }
     }
 }
