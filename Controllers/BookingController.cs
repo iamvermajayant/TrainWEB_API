@@ -122,26 +122,48 @@ namespace WebApi.Controllers
 
 
 
+        //[HttpPost("PassengerDetails")]
+        //[Authorize(Roles = "user")]
+        //public async Task<IActionResult> PassengerDetails(List<PassengerDetails> tempPassengerDetails)
+        //{
+        //    List<PassengerDetails> passengerDetails = new List<PassengerDetails>();
+
+        //    foreach(PassengerDetails  passenger in tempPassengerDetails)
+        //    {
+        //        PassengerDetails passObj = new PassengerDetails();
+
+        //        passObj.Name = passenger.Name;
+        //        passObj.Age = passenger.Age;
+        //        passObj.Gender = passenger.Gender;
+        //        passObj.PNR = passenger.PNR;
+
+        //        passengerDetails.Add(passObj);
+        //    }
+
+        //    await _context.PassengerDetails.AddRangeAsync(passengerDetails);
+        //    await _context.SaveChangesAsync();
+
+        //    return Ok(new { Message = "Passenger details added successfully." });
+        //}
+
         [HttpPost("PassengerDetails")]
         [Authorize(Roles = "user")]
         public async Task<IActionResult> PassengerDetails(List<PassengerDetails> tempPassengerDetails)
         {
-            List<PassengerDetails> passengerDetails = new List<PassengerDetails>();
-
-            foreach(PassengerDetails  passenger in tempPassengerDetails)
+            foreach (PassengerDetails passenger in tempPassengerDetails)
             {
-                PassengerDetails passObj = new PassengerDetails();
+                PassengerDetails passObj = new PassengerDetails
+                {
+                    Name = passenger.Name,
+                    Age = passenger.Age,
+                    Gender = passenger.Gender,
+                    PNR = passenger.PNR
+                };
 
-                passObj.Name = passenger.Name;
-                passObj.Age = passenger.Age;
-                passObj.Gender = passenger.Gender;
-                passObj.PNR = passenger.PNR;
-
-                passengerDetails.Add(passObj);
+                _context.PassengerDetails.Add(passObj);
             }
 
-            _context.PassengerDetails.AddRangeAsync(passengerDetails);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return Ok(new { Message = "Passenger details added successfully." });
         }
