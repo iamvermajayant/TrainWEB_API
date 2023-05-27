@@ -7,6 +7,7 @@ using System.Security.Claims;
 using TRS_WebApi.Models;
 using WebApi.Data;
 using WebApi.Models;
+using WebApi.Services;
 
 namespace WebApi.Controllers
 {
@@ -27,6 +28,7 @@ namespace WebApi.Controllers
 
         //---------------------------------helper methods starts here----------------------------------------------
 
+        WebApi.Services.EmailService em = new WebApi.Services.EmailService();
 
         private bool PNRExists(int PNR)
         {
@@ -111,8 +113,8 @@ namespace WebApi.Controllers
 
             string emailBody = $"Booking successfull, here is the PNR number for your booking {tempPNR},\nTrain Details \nTrain Number : {trainObj.TrainId}\nTrain Name : {trainObj.TrainName}\n Travel Date : {trainObj.Departure} - {trainObj.Arrival}\nTickets : {bgh.ticketCount}";
 
-            //EmailService em = new EmailService();
-            //em.SendEmail(emailBody, user.Email);
+
+            em.SendEmail(emailBody, user.UserEmail);
 
 
             return Ok( new { ticketCount, tempPNR, Message = $"Booking for the train {trainObj.TrainName} succeeded, details sent to the email address" });
@@ -165,12 +167,14 @@ namespace WebApi.Controllers
             var passengerDetails = _context.PassengerDetails.Where(p => p.PNR == bookingHistory.PNR).ToList();
             _context.PassengerDetails.RemoveRange(passengerDetails);
 
-            var UserProfile = _context.UserProfileDetails.SingleOrDefault(x => x.UserId == bookingHistory.UserId);
+            string userId = _contentAccessor.HttpContext.User.FindFirstValue("Id");
+
+            int Id = Convert.ToInt32(userId);
+            UserProfileDetails user = _context.UserProfileDetails.FirstOrDefault(user => user.UserId == Id);
 
             string emailBody = $"Cancel successfull, here is the PNR number for your cancelled booking {bookingHistory.PNR},\nTrain Details \nTrain Number : {trainDetails.TrainId}\nTrain Name : {trainDetails.TrainName}\n Travel Date : {trainDetails.Departure} - {trainDetails.Arrival}\nTickets : {bookingHistory.ticketCount}";
 
-            //EmailService em = new EmailService();
-            //em.SendEmail(emailBody, UserProfile.Email);
+            em.SendEmail(emailBody, user.UserEmail);
 
             // Remove the booking
             _context.Bookings.Remove(bookingHistory);
