@@ -226,6 +226,8 @@ namespace WebApi.Controllers
                 return NotFound();
             }
             var BookingsModel = await context.Bookings.FindAsync(id);
+            var TrainDetails = await context.TrainDetails.FindAsync(BookingsModel.TrainId);
+
             List<PassengerDetails> PassengerModel = new List<PassengerDetails>();
 
             if (BookingsModel != null)
@@ -236,6 +238,8 @@ namespace WebApi.Controllers
             {
                 return NotFound();
             }
+
+            TrainDetails.SeatCapacity += BookingsModel.ticketCount;
 
             context.Bookings.Remove(BookingsModel);
             context.PassengerDetails.RemoveRange(PassengerModel);
