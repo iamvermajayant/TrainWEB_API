@@ -11,6 +11,8 @@ using WebApi.Data;
 using WebApi.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Org.BouncyCastle.Ocsp;
+using WebApi.Services;
 
 namespace YourApp.Controllers.Api
 {
@@ -48,6 +50,15 @@ namespace YourApp.Controllers.Api
             {
                 return BadRequest(ModelState);
             }
+
+            if (UserExists(model.UserEmail))
+            {
+                ModelState.AddModelError(string.Empty, "User already exists, please log in");
+                return BadRequest(ModelState);
+            }
+
+            string tempData = model.Password;
+
             string pass = _passwordHasher.HashPassword(null, model.Password);
             var user = new UserProfileDetails
             {
@@ -64,7 +75,13 @@ namespace YourApp.Controllers.Api
                 return BadRequest(ModelState);
             }
             _dbContext.SaveChanges();
-            
+
+            string emailBody = $"Train Reservation System\n\nDear, {model.UserName},\nYour account has been successfully created with Train Reservation System.\nPlease find below your login credentials:\nEmail : {model.UserEmail}\nPassword : {tempData}\nThank you for choosing our service.\nBest regards,\nThe Train Reservation System team";
+            string subject = "Welcome to Train Reservation System";
+
+            EmailService em = new EmailService();
+            em.SendEmail(emailBody, model.UserEmail, subject);
+
 
             return Ok(new
             {
