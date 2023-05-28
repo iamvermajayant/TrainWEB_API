@@ -108,7 +108,7 @@ namespace WebApi.Controllers
 
             trainObj.SeatCapacity -= bgh.ticketCount;
 
-            foreach(PassengerDetails passenger in bghModel.PassengerDetails)
+            foreach(PNR_PassengerDetails passenger in bghModel.PassengerDetails)
             {
                 _context.PassengerDetails.Add( new PassengerDetails{
                     Name = passenger.Name,

@@ -5,7 +5,7 @@ namespace WebApi.Models
     public class BookingHistoryModel
     {
         public int TrainId { get; set; }
-        public List<PassengerDetails> PassengerDetails { get; set; }
+        public List<PNR_PassengerDetails> PassengerDetails { get; set; }
 
     }
 }
