@@ -14,6 +14,8 @@ using WebApi.Services;
 using WebApi.Models.TableSchema;
 using WebApi.Models.DTO;
 using Org.BouncyCastle.Ocsp;
+using System.Text.RegularExpressions;
+using Org.BouncyCastle.Math;
 
 namespace YourApp.Controllers.Api
 {
@@ -46,6 +48,12 @@ namespace YourApp.Controllers.Api
         {
             Random random = new Random();
             return random.Next(100000, 999999);
+        }
+
+        private bool IsValidEmail(string email)
+        {
+            string emailPattern = @"^[\w-]+(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]{2,7}$";
+            return Regex.IsMatch(email, emailPattern);
         }
 
         private string GenerateJwtToken(UserProfileDetails user)
@@ -165,6 +173,13 @@ namespace YourApp.Controllers.Api
         [AllowAnonymous]
         public async Task<IActionResult> ResetPassword([FromBody] string emailId)
         {
+
+            if (!IsValidEmail(emailId))
+            {
+                ModelState.AddModelError(string.Empty, "Invalid email format.");
+                return BadRequest(ModelState);
+            }
+
             var user = await _dbContext.UserProfileDetails.FirstOrDefaultAsync(u => u.UserEmail == emailId);
 
             if (user == null)
@@ -198,7 +213,68 @@ namespace YourApp.Controllers.Api
             return Ok(new
             {
                 StatusCode = 200,
-                Message = "Tested Successfully"
+                Message = "OTP sent successfully"
+            });
+        }
+
+        [HttpPost("ResetPasswordPostOtp")]
+        [AllowAnonymous]
+        public async Task<IActionResult> ResetPasswordPostOtp(ResetPasswordDto resetPasswordDtoObj)
+        {
+            var databaseEntry = await _dbContext.ResetPasswords.FirstOrDefaultAsync(x => x.UserEmail == resetPasswordDtoObj.Email);
+            if (databaseEntry == null)
+            {
+                ModelState.AddModelError(string.Empty, "Email not found to reset the password, please reset again.");
+                return BadRequest(ModelState);
+            }
+
+            if (databaseEntry.failedTries > 2 || databaseEntry.expiry < DateTime.Now)
+            {
+                _dbContext.ResetPasswords.Remove(databaseEntry);
+                await _dbContext.SaveChangesAsync();
+                ModelState.AddModelError(string.Empty, "otp for the current email address expired, please try again");
+                return BadRequest(ModelState);
+            }
+
+            if (databaseEntry.otp != resetPasswordDtoObj.otp)
+            {
+                databaseEntry.failedTries += 1;
+                int tries = 3 - databaseEntry.failedTries;
+                await _dbContext.SaveChangesAsync();
+
+                if (tries == 0)
+                {
+                    _dbContext.ResetPasswords.Remove(databaseEntry);
+                    await _dbContext.SaveChangesAsync();
+                    ModelState.AddModelError(string.Empty, $"otp for the current email address expired, please try again");
+                }
+                else if ( tries > 1)
+                {
+                    ModelState.AddModelError(string.Empty, $"Please enter valid otp, you have {tries} more tries left.");
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, $"Please enter valid otp, you have {tries} more try left.");
+                }
+                return BadRequest(ModelState);
+            }
+
+            if (resetPasswordDtoObj.Password != resetPasswordDtoObj.confirmPassword)
+            {
+                ModelState.AddModelError(string.Empty, "Please enter same password in both password fields");
+                return BadRequest(ModelState);
+            }
+
+            var user = await _dbContext.UserProfileDetails.FirstOrDefaultAsync(x => x.UserEmail == resetPasswordDtoObj.Email);
+            string pass = _passwordHasher.HashPassword(null, resetPasswordDtoObj.Password);
+            user.Password = pass;
+            _dbContext.ResetPasswords.Remove(databaseEntry);
+            await _dbContext.SaveChangesAsync();
+
+            return Ok(new
+            {
+                StatusCode = 200,
+                Message = "Password has been changed successfully"
             });
         }
         

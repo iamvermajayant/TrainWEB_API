@@ -12,6 +12,7 @@ namespace WebApi.Models.TableSchema
         public string UserEmail { get; set; }
         [Required]
         public int otp { get; set; }
+        public DateTime expiry { get; set; } = DateTime.Now.AddHours(1);
         public int failedTries { get; set; } = 0;
     }
 }
