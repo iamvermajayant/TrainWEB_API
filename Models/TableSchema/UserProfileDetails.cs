@@ -16,6 +16,7 @@ namespace WebApi.Models.TableSchema
         [Column(TypeName = "varchar(100)")]
         public string UserEmail { get; set; }
         public string RoleName { get; private set; } = "user";
+        public bool verified { get; set; } = false;
 
     }
     public class Jwt

@@ -10,11 +10,10 @@ using Microsoft.IdentityModel.Tokens;
 using WebApi.Data;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
-using Org.BouncyCastle.Ocsp;
 using WebApi.Services;
 using WebApi.Models.TableSchema;
 using WebApi.Models.DTO;
-using static Org.BouncyCastle.Asn1.Cmp.Challenge;
+using Org.BouncyCastle.Ocsp;
 
 namespace YourApp.Controllers.Api
 {
@@ -173,7 +172,28 @@ namespace YourApp.Controllers.Api
                 ModelState.AddModelError(string.Empty, "User not found.");
                 return BadRequest(ModelState);
             }
+            int otp = GenerateOTP();
 
+            resetPassword resetPasswordObj = new resetPassword
+            {
+                UserEmail = user.UserEmail,
+                otp = otp
+            };
+
+            var result = await _dbContext.ResetPasswords.AddAsync(resetPasswordObj);
+
+            if (result.State != EntityState.Added)
+            {
+                ModelState.AddModelError(string.Empty, "Unable to reset the password of user.");
+                return BadRequest(ModelState);
+            }
+            _dbContext.SaveChanges();
+
+            string emailBody = $"Train Reservation System\n\nDear, {user.UserName}\nUse this otp : {otp} to reset your password.\n\nBest regards,\nThe Train Reservation System team";
+            string subject = "Welcome to Train Reservation System";
+
+            EmailService em = new EmailService();
+            em.SendEmail(emailBody, user.UserEmail, subject);
 
             return Ok(new
             {

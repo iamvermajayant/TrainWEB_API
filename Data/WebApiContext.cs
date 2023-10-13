@@ -21,6 +21,7 @@ namespace WebApi.Data
         public DbSet<OlderTrainDetails> OlderTrainDetails { get; set; }
 
         public DbSet<PassengerDetails> PassengerDetails { get; set; }
+        public DbSet<resetPassword> ResetPasswords { get; set; }
 
     }
 }
