@@ -4,8 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using System.Data;
 using WebApi.Data;
 using Microsoft.AspNetCore.Authorization;
-using TRS_WebApi.Models;
-using WebApi.Models;
+using WebApi.Models.TableSchema;
+using WebApi.Models.DTO;
 
 namespace WebApi.Controllers
 {

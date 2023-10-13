@@ -1,4 +1,4 @@
-﻿namespace TRS_WebApi.Models
+﻿namespace WebApi.Models.DTO
 {
     public class PNR_ClassMembers
     {

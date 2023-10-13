@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace TRS_WebApi.Models
+namespace WebApi.Models.TableSchema
 {
     public class PassengerDetails
     {

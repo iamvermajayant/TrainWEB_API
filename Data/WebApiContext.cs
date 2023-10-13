@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using TRS_WebApi.Models;
-using WebApi.Models;
+using WebApi.Models.TableSchema;
 
 namespace WebApi.Data
 {

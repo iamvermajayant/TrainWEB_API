@@ -4,10 +4,10 @@ using Microsoft.EntityFrameworkCore;
 using NETCore.MailKit.Core;
 using System.Data;
 using System.Security.Claims;
-using TRS_WebApi.Models;
 using WebApi.Data;
-using WebApi.Models;
 using WebApi.Services;
+using WebApi.Models.TableSchema;
+using WebApi.Models.DTO;
 
 namespace WebApi.Controllers
 {

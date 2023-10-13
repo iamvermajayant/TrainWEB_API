@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace WebApi.Models
+
+namespace WebApi.Models.TableSchema
 {
     public class UserProfileDetails
     {

@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-using WebApi.Models;
 
-namespace TRS_WebApi.Models
+
+namespace WebApi.Models.TableSchema
 {
     public class BookingHistory
     {

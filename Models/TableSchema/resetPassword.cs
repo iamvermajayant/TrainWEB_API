@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WebApi.Models
+namespace WebApi.Models.TableSchema
 {
     public class resetPassword
     {
@@ -12,5 +12,6 @@ namespace WebApi.Models
         public string UserEmail { get; set; }
         [Required]
         public int otp { get; set; }
+        public int failedTries { get; set; } = 0;
     }
 }

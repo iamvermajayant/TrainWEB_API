@@ -8,15 +8,17 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using WebApi.Data;
-using WebApi.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Org.BouncyCastle.Ocsp;
 using WebApi.Services;
+using WebApi.Models.TableSchema;
+using WebApi.Models.DTO;
+using static Org.BouncyCastle.Asn1.Cmp.Challenge;
 
 namespace YourApp.Controllers.Api
 {
-    
+
     [ApiController]
     [Route("api/[controller]")]
     //[Authorize]
@@ -25,6 +27,7 @@ namespace YourApp.Controllers.Api
         private readonly PasswordHasher<object> _passwordHasher = new PasswordHasher<object>();
         private readonly IConfiguration _config;
         private readonly WebApiContext _dbContext;
+        private static object random;
 
         public UserController(IConfiguration config,WebApiContext dbContext)
         {
@@ -38,6 +41,42 @@ namespace YourApp.Controllers.Api
         private bool UserExists(string name)
         {
             return _dbContext.UserProfileDetails.Any(u => u.UserEmail == name);
+        }
+
+        private int GenerateOTP()
+        {
+            Random random = new Random();
+            return random.Next(100000, 999999);
+        }
+
+        private string GenerateJwtToken(UserProfileDetails user)
+        {
+            var claims = new[]
+            {
+                new Claim(JwtRegisteredClaimNames.Sub, user.UserEmail),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim(JwtRegisteredClaimNames.Iat, DateTime.UtcNow.ToString()),
+                new Claim("Id",user.UserId.ToString()),
+                new Claim("UserName",user.UserName),
+                new Claim("RoleName",user.RoleName),
+                new Claim(ClaimTypes.Name, user.UserName),
+                new Claim(ClaimTypes.Role, user.RoleName),
+                new Claim("Password",user.Password)
+            };
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+            var expires = DateTime.Now.AddDays(Convert.ToDouble(_config["Jwt:ExpireDays"]));
+
+            var token = new JwtSecurityToken(
+                _config["Jwt:Issuer"],
+                _config["Jwt:Audience"],
+                claims,
+                expires: expires,
+                signingCredentials: creds
+            );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
         //------------------------------------------helper methods ends here-----------------------------------
@@ -123,35 +162,26 @@ namespace YourApp.Controllers.Api
             return Ok(new { token });
         }
 
-        private string GenerateJwtToken(UserProfileDetails user)
+        [HttpPost("ResetPassword")]
+        [AllowAnonymous]
+        public async Task<IActionResult> ResetPassword([FromBody] string emailId)
         {
-            var claims = new[]
+            var user = await _dbContext.UserProfileDetails.FirstOrDefaultAsync(u => u.UserEmail == emailId);
+
+            if (user == null)
             {
-                new Claim(JwtRegisteredClaimNames.Sub, user.UserEmail),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                new Claim(JwtRegisteredClaimNames.Iat, DateTime.UtcNow.ToString()),
-                new Claim("Id",user.UserId.ToString()),
-                new Claim("UserName",user.UserName),
-                new Claim("RoleName",user.RoleName),
-                new Claim(ClaimTypes.Name, user.UserName),
-                new Claim(ClaimTypes.Role, user.RoleName),
-                new Claim("Password",user.Password)
-            };
+                ModelState.AddModelError(string.Empty, "User not found.");
+                return BadRequest(ModelState);
+            }
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-            var expires = DateTime.Now.AddDays(Convert.ToDouble(_config["Jwt:ExpireDays"]));
 
-            var token = new JwtSecurityToken(
-                _config["Jwt:Issuer"],
-                _config["Jwt:Audience"],
-                claims,
-                expires: expires,
-                signingCredentials: creds
-            );
-
-            return new JwtSecurityTokenHandler().WriteToken(token);
+            return Ok(new
+            {
+                StatusCode = 200,
+                Message = "Tested Successfully"
+            });
         }
+        
     }
 }
 

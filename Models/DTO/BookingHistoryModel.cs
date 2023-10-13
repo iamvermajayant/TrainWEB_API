@@ -1,6 +1,4 @@
-﻿using TRS_WebApi.Models;
-
-namespace WebApi.Models
+﻿namespace WebApi.Models.DTO
 {
     public class BookingHistoryModel
     {

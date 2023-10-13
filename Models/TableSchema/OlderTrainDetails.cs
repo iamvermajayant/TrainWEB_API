@@ -1,9 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WebApi.Models
+namespace WebApi.Models.TableSchema
 {
-    public class TrainDetailsModelToDB
+    public class OlderTrainDetails
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int Id { get; set; }
         [Required]
         [StringLength(100)]
         public string TrainName { get; set; }
